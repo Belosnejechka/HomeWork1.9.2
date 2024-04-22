@@ -1,6 +1,5 @@
 package netology;
 
-import com.github.axet.vget.VGet;
 import org.apache.http.HttpHeaders;
 import org.apache.http.ParseException;
 import org.apache.http.client.config.RequestConfig;
